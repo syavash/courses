@@ -2,7 +2,11 @@
 
 ## This is a test course.
 
-* Item 1
+|  | adasdasd $$a = \int_0^{10}{b^2}$$  |  | sdf asdfas | sadfasdfas |
+| :--- | :--- | :--- | :--- | :--- |
+|  | asdf asdf as |  | asdfas | fasdddfasdfasd |
+
+* Item 2
 * Item 2
 * Item 3
 
