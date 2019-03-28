@@ -1,16 +1,12 @@
 # Initial page
 
-## sadf asdf aTyler
+## This is a test course.
 
-| sdf asdfas | sadfasdfas |
+* Item 1
+* Item 2
+* Item 3
+
+| Header 1 | Header 2 |
 | :--- | :--- |
-| asdfas | fasdfasdfasd |
-
-* asdfa sdf asdfasd
-* fasdf asdfasd
-* fasdfasda
-
-
-
-Edited this now!
+| Test | Test |
 
