@@ -1,20 +1,10 @@
 # Initial page
 
-## This is a test Textbook
+## This is a test textbook
 
-```text
-adsf asdf asdfas
-asdf asdfasd
-```
+### Chapter 1
 
-{% file src=".gitbook/assets/image2.png" caption="Test" %}
-
-![sdfasdfasdf](.gitbook/assets/image2.png)
-
-* [x] asdfas dfsadf 
-* [ ] asdfasdf
-
-
+This is just testing basic functionality.
 
 
 
