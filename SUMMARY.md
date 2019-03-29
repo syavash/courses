@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Chapter 1](README.md)
+* [Index](README.md)
+* [Chapter 1](chapter-1.md)
 * [Chapter 2](second-page.md)
 
