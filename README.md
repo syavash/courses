@@ -1,67 +1,20 @@
 # Initial page
 
-## This is a test course.
+## This is a test Textbook
 
-|  | adasdasd $$a = \int_0^{10}{b^2}$$  |  | sdf asdfas | sadfasdfas |
-| :--- | :--- | :--- | :--- | :--- |
-|  | asdf asdf as |  | asdfas | fasdddfasdfasd |
-
-* Item 2
-* Item 2
-* Item 3
-* Item 4
-
-asdasdasdasdasdas
-
-aaaaaaaaa111111
-
-| Header 1 | Header 2 |
-| :--- | :--- |
-| Test | Test |
-
-{% api-method method="get" host="https://test.com" path="/v1/test" %}
-{% api-method-summary %}
-Test get
-{% endapi-method-summary %}
-
-{% api-method-description %}
-Here is a brief explanation
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="Test" type="string" required=true %}
-
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-
-{% endapi-method-response-example-description %}
-
+```text
+adsf asdf asdfas
+asdf asdfasd
 ```
-{ success: true }
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
 
-{% tabs %}
-{% tab title="First Tab" %}
-First tab content
-{% endtab %}
+{% file src=".gitbook/assets/image2.png" caption="Test" %}
 
-{% tab title="Second Tab" %}
-Second Tab content
-{% endtab %}
-{% endtabs %}
+![sdfasdfasdf](.gitbook/assets/image2.png)
 
-This is another test...
+* [x] asdfas dfsadf 
+* [ ] asdfasdf
+
+
 
 
 
